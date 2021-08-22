@@ -72,6 +72,9 @@ const filterBugs = (partial_data) => {
   const regexPattern = RegExp(/NVIEW-.*[/^\d+$/]/);
   return partial_data.filter(pr => {
     const result = pr.title.match(regexPattern);
+    if (!result) {
+      return pr;
+    }
     return bugIDs.includes(result[0]);
   });
 }
