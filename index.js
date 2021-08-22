@@ -18,7 +18,7 @@ const repo = process.env.GITHUB_REPO;
 const owner = process.env.GITHUB_OWNER;
 const octokit = new Octokit({auth: accessToken});
 
-const expireYEar = new Date().setMonth(new Date().getMonth() - 6);
+const expireYEar = new Date().setMonth(new Date().getMonth() - 3);
 const expirationDate = new Date(expireYEar).getTime();
 
 import {bugIDs} from './bugs.js';
@@ -140,7 +140,12 @@ const writeDoc = (fileName, data) => {
 const groupBy = (data) => {
   return data.reduce((res, file) => {
     const filename = file['filename'];
-    res[filename] = filename || [];
+    if (!res) {
+      res = {};
+    }
+    if (!res[filename]) {
+      res[filename] = [];
+    }
     res[filename].push(file.pull.title);
     return res;
   }, {});

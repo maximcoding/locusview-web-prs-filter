@@ -1,0 +1,769 @@
+{
+  "src/app/locusview-main-page/projectManagement/components/project-list/project-list.component.ts": [
+    "NVIEW-25238 [PM] Initial sorting omits sorting by step name",
+    "NVIEW-25238 [PM] Initial sorting omits sorting by step name",
+    "NVIEW-25238 [PM] Initial sorting omits sorting by step name",
+    "NVIEW-24706: [PM] incorrect search bar behavior ",
+    "NVIEW-24867: Project Management: visual bug when adding tag to the table",
+    "NVIEW-25030: [PM] Sorting project list makes the list disappear",
+    "NVIEW-25030: [PM] Sorting project list makes the list disappear"
+  ],
+  "src/app/share/modules/infra/components/lv-grid-container/grid-services/grid-sort/grid-sort.service.spec.ts": [
+    "NVIEW-25238 [PM] Initial sorting omits sorting by step name"
+  ],
+  "src/app/share/modules/infra/components/lv-grid-container/grid-services/grid-sort/grid-sort.service.ts": [
+    "NVIEW-25238 [PM] Initial sorting omits sorting by step name"
+  ],
+  "src/i18n/en.json": [
+    "NVIEW-24711- fix typo",
+    "NVIEW-24711- [Config] unable to get popup after getting error CONDITION_ON_MATERIAL_STATUS_ALERTS",
+    "NVIEW-24853:[AUTO] Wrong dropdown field titles for Privacy Settings and Project Sharing",
+    "NVIEW-24552 : SAML groups dropdown missing",
+    "NVIEW-24051 : View-Users-Groups-title",
+    "NVIEW-24391 - fix wording",
+    "NVIEW-23977 - fix project sharing title",
+    "NVIEW-23903 - fix webhook text for delete modal",
+    "Nview 23258 unsuported fields remove tag"
+  ],
+  "src/app/share/modules/dashboards/services/dashboards.service.ts": [
+    "NVIEW-25258: Application call to get metric types when its toggle is off",
+    "NVIEW-24745: [Config] [Regression] Unable to set Require When to Neve…"
+  ],
+  "src/app/share/modules/lv-form/components/lv-form-fields-editor/lv-form-fields-editor.component.ts": [
+    "NVIEW-24711- [Config] unable to get popup after getting error CONDITION_ON_MATERIAL_STATUS_ALERTS",
+    "NVIEW-25227 : Save-button-stuck-on-saving",
+    "NVIEW-24320 - fix - update control and second control whenever value change",
+    "NVIEW-24775 Workflow Used in the Following Projects card: List of the…"
+  ],
+  "src/app/locusview-main-page/configuration/components/warnings-violations/alert-type-editor/alert-type-editor.component.ts": [
+    "NVIEW-25235 : Material-Status-is-available-in-the-alerts-reopen",
+    "NVIEW-25241 : Incorrect-fields-values-satisfies-sections",
+    "NVIEW-24074 fix: [Config] incorrect field translation in long story short section in alerts"
+  ],
+  "src/app/share/modules/infra/components/lv-editor-card/lv-editor-card.component.scss": [
+    "NVIEW-24785: Default Step & Workflow -> incorrect 'Copy to clipboard'…",
+    "NVIEW-24874 - fix card title"
+  ],
+  "src/app/share/components/users-and-groups-async-multi-select/users-and-groups-async-multi-select.component.ts": [
+    "NVIEW-24197: [do auto] Multi Select when searching twice is broken"
+  ],
+  "src/app/share/modules/infra/components/lv-select-options-page/calculate-overlay-height-helper.ts": [
+    "NVIEW-24197: [do auto] Multi Select when searching twice is broken",
+    "NVIEW-24198: No Results Found is displayed before search  value added"
+  ],
+  "src/app/share/modules/infra/components/lv-select-options-page/lv-select-options-page.component.ts": [
+    "NVIEW-24197: [do auto] Multi Select when searching twice is broken",
+    "NVIEW-24849: [R&A] user or groups field working incorrectly in filters",
+    "NVIEW-24198: No Results Found is displayed before search  value added",
+    "NVIEW-23900: [do auto] Select All checkbox selected by default in Use…"
+  ],
+  "src/app/locusview-main-page/configuration/components/warnings-violations/alert-type-editor-card/alert-type-editor-card.component.ts": [
+    "NVIEW-25241 : Incorrect-fields-values-satisfies-sections",
+    "Nview 23258 unsuported fields remove tag"
+  ],
+  "src/app/locusview-main-page/configuration/components/gis-layer/connect/connect-gis-layer.component.ts": [
+    "NVIEW-25242 : Allow reopen projects reopen",
+    "NVIEW-24229 : Delete-endpoint-flow-is-broken"
+  ],
+  "src/app/locusview-main-page/configuration/components/gis-layer/gis-guard/gis-guard.ts": [
+    "NVIEW-25242 : Allow reopen projects reopen",
+    "NVIEW-23967 : Popup-changes-will-be-lost"
+  ],
+  "src/app/locusview-main-page/usersManagement/components/lv-policies-editor/lv-policies-editor.component.ts": [
+    "NVIEW-25242 : Allow reopen projects reopen",
+    "NVIEW-25211 : Step-permissions bugs and other UI bugz",
+    "NVIEW-25180 : Policy is saved wihtout r a access perm",
+    "NVIEW-25117 : Impossible-to-save-changes-in-policies-specific",
+    "NVIEW-24991 : View-Policy-Settings-flow-is-broken",
+    "NVIEW-24139 : Incorrect-statuses-order-policies"
+  ],
+  "src/app/locusview-main-page/usersManagement/components/lv-policy/lv-policies-overview-screen/containers/lv-policies-properties-container/lv-policies-properties-container.component.ts": [
+    "NVIEW-25242 : Allow reopen projects reopen"
+  ],
+  "src/app/locusview-main-page/environmentSettings/components/web-hooks/web-hooks.component.ts": [
+    "NVIEW-25182: Webhook: incorrect handling of deleted project type",
+    "NVIEW-25185: Invalid set of fields and default values in the addition…",
+    "NVIEW-25182: Webhook: incorrect handling of deleted project type",
+    "NVIEW-23903 - fix icon name"
+  ],
+  "src/app/locusview-main-page/review/components/review-approve-project/review-approve-project.component.ts": [
+    "NVIEW-25143 [R&A][PM][UM][Config] incorrect cancel button behavior in…",
+    "Nview 23258 unsuported fields remove tag"
+  ],
+  "src/app/locusview-main-page/configuration/components/grid-with-full-screen.component/grid-with-full-screen.component.html": [
+    "NVIEW-25227 : Save-button-stuck-on-saving"
+  ],
+  "src/app/locusview-main-page/configuration/components/grid-with-full-screen.component/grid-with-full-screen.component.ts": [
+    "NVIEW-25227 : Save-button-stuck-on-saving",
+    "NVIEW-24559: [AUTO] Can't save Asset type after editing it",
+    "NVIEW-23924: [Config] when project type duplicated all the fields in …"
+  ],
+  "src/app/share/modules/lv-form/components/lv-form-fields-editor/lv-form-fields-editor.component.html": [
+    "NVIEW-25227 : Save-button-stuck-on-saving",
+    "NVIEW-25220 : List-of-elements-dissapears-at-components-tab",
+    "NVIEW-25207 : Steps-Config-editor-design-broken",
+    "NVIEW-24320 - fix - update control and second control whenever value change"
+  ],
+  "src/app/share/components/world-base-component/world-base.component.html": [
+    "NVIEW-25215 fix: [Config] [Regression] Tab focus indicator on Workflow Builder -> Steps appears inconsistently"
+  ],
+  "src/app/share/components/world-base-component/world-base.component.scss": [
+    "NVIEW-25215 fix: [Config] [Regression] Tab focus indicator on Workflow Builder -> Steps appears inconsistently",
+    "add flex to ag-grid"
+  ],
+  "src/app/locusview-main-page/usersManagement/components/lv-policy/lv-policies-overview-screen/containers/lv-policies-entity-permissions-container/lv-policies-entity-permissions-container.component.scss": [
+    "NVIEW-25226 - fix css issues with policies"
+  ],
+  "src/app/share/components/lv-review-steps/lv-review-steps.component.html": [
+    "NVIEW-25111 fix: [R&A] Dropdown button text overlaps with the arrow",
+    "NVIEW-25169 fix R&A: status in progress needs to be with grey text color",
+    "NVIEW-25169 fix R&A: status in progress needs to be with grey text color",
+    "NVIEW-23902 fix: [R&A] incorrect positioning of the text above the buttons in the side menu"
+  ],
+  "src/app/share/components/lv-review-steps/lv-review-steps.component.scss": [
+    "NVIEW-25111 fix: [R&A] Dropdown button text overlaps with the arrow",
+    "NVIEW-25169 fix R&A: status in progress needs to be with grey text color",
+    "NVIEW-25169 fix R&A: status in progress needs to be with grey text color"
+  ],
+  "src/app/share/components/lv-review-steps/lv-review-steps.component.ts": [
+    "NVIEW-25111 fix: [R&A] Dropdown button text overlaps with the arrow",
+    "NVIEW-23879 fix: [PM] the specific status color not displayed when hovering on users button"
+  ],
+  "src/app/locusview-main-page/resources/components/catalog-editor/catalog-editor.component.html": [
+    "NVIEW-25211 : Step-permissions bugs and other UI bugz",
+    "NVIEW-25187: [Resources] mandatory field error not displayed on the f…"
+  ],
+  "src/app/locusview-main-page/usersManagement/components/lv-policies-editor/lv-policies-editor.component.html": [
+    "NVIEW-25211 : Step-permissions bugs and other UI bugz",
+    "NVIEW-24905 : Missing-text-in-policies",
+    "NVIEW-24715 : In-Policy-Settings-left-card-incorrectly"
+  ],
+  "src/app/share/modules/infra/components/full-screen-editor-wrapper/full-screen-editor-wrapper.component.scss": [
+    "NVIEW-25211 : Step-permissions bugs and other UI bugz"
+  ],
+  "src/app/share/modules/lv-form/components/lv-form-fields-editor/lv-form-fields-editor.component.scss": [
+    "NVIEW-25211 : Step-permissions bugs and other UI bugz"
+  ],
+  "src/app/locusview-main-page/configuration/components/oq/oq.component.html": [
+    "NVIEW-25202 fix: [Config] oq vendors tab is visible and disappear on empty state on first load"
+  ],
+  "src/app/locusview-main-page/configuration/components/oq/oq.component.ts": [
+    "NVIEW-25202 fix: [Config] oq vendors tab is visible and disappear on empty state on first load",
+    "NVIEW-24713: OQ configuration does not work"
+  ],
+  "src/assets/style/material.scss": [
+    "NVIEW-25207 : Steps-Config-editor-design-broken",
+    "add flex to ag-grid",
+    "NVIEW-23588 : cp-master",
+    "NVIEW-23588 : Inactive-icon-displayed-on-top"
+  ],
+  "src/commonStyles.scss": [
+    "NVIEW-25207 : Steps-Config-editor-design-broken",
+    "add flex to ag-grid"
+  ],
+  "src/app/locusview-main-page/environmentSettings/components/web-hooks/web-hooks.component.scss": [
+    "NVIEW-25203 - fix top margin"
+  ],
+  "src/app/locusview-main-page/usersManagement/components/lv-policy/lv-policies-overview-screen/containers/lv-policies-entity-permissions-container/lv-policies-entity-permissions-container.component.ts": [
+    "NVIEW-25180 : Policy is saved wihtout r a access perm"
+  ],
+  "src/app/locusview-main-page/resources/components/catalog-editor/catalog-editor.component.ts": [
+    "NVIEW-25187: [Resources] mandatory field error not displayed on the f…"
+  ],
+  "src/app/locusview-main-page/resources/components/catalog/catalog.component.ts": [
+    "NVIEW-25187: [Resources] mandatory field error not displayed on the f…",
+    "NVIEW-25017: Inactive icon should has it's own column in new tables",
+    "NVIEW-25018: Index column is not always displayed as the first column",
+    "NVIEW-24903: [AUTO] New Catalog line displayed only after refresh"
+  ],
+  "src/app/locusview-main-page/review/classes/search-card-properties-generator.ts": [
+    "NVIEW-24866 - fix search results filter"
+  ],
+  "src/app/locusview-main-page/configuration/components/workflows/workflows.component.ts": [
+    "NVIEW-25178: Error AG Grid: Grid API function setQuickFilter() cannot…",
+    "NVIEW-24957: Steps Transitions: wrong default rows of step transitions"
+  ],
+  "src/app/share/modules/infra/components/lv-grid-container/grid-services/grid-settings-service/grid-settings.service.ts": [
+    "NVIEW-25178: Error AG Grid: Grid API function setQuickFilter() cannot…",
+    "NVIEW-24706: [PM] incorrect search bar behavior ",
+    "NVIEW-24928: [Config] incorrect styling in workflow builder page",
+    "add flex to ag-grid",
+    "NVIEW-24706: [PM] incorrect search bar behavior"
+  ],
+  "src/app/locusview-main-page/environmentSettings/components/web-hooks/web-hooks.component.html": [
+    "NVIEW-25184: Webhook: delete button inconsistency",
+    "NVIEW-24880 : Incorrec-icon-design-in-webhooks"
+  ],
+  "src/app/locusview-main-page/review/classes/history-card-properties-generator.ts": [
+    "NVIEW-25144 R&A: Error in debug console on attempt to load data of st…",
+    "NVIEW-24701 fix: [do auto] Lifecycle Review card title is wrong"
+  ],
+  "src/app/share/modules/infra/components/lv-photo-field/lv-photo-field.component.ts": [
+    "NVIEW-24375: gallery: active picture is changed when deleting inactiv…",
+    "NVIEW-24311: Click on thumbnail with number indicator opens gallery …",
+    "NVIEW-24311: Click on thumbnail with number indicator opens gallery w…",
+    "NVIEW-24243: Delete picture from the gallery is not implemented corre…",
+    "NVIEW-24311: Click on thumbnail with number indicator opens gallery w…",
+    "NVIEW-24311: Picture thumbnail is missing in the field after uploading",
+    "NVIEW-24309: Gallery: active picture is out of the visible area in the footer",
+    "NVIEW-24309: Gallery: active picture is out of the visible area in th…",
+    "NVIEW-24257: Improper additional pictures indicator on the photofiel…",
+    "NVIEW-24257: Improper additional pictures indicator on the photofield…",
+    "NVIEW-24261: User without permissions can delete pictured from the ph…",
+    "NVIEW-24257: Improper additional pictures indicator on the photofield…",
+    "NVIEW-23602: [R&A] Full size mode is not closed automatically when al…"
+  ],
+  "src/app/share/modules/infra/components/lv-photo-gallery-item/lv-photo-gallery-item.component.html": [
+    "NVIEW-24375: gallery: active picture is changed when deleting inactiv…",
+    "NVIEW-24261: User without permissions can delete pictured from the ph…"
+  ],
+  "src/app/share/modules/infra/components/lv-photo-gallery/lv-photo-gallery.component.html": [
+    "NVIEW-24375: gallery: active picture is changed when deleting inactiv…",
+    "NVIEW-24309: Gallery: active picture is out of the visible area in the footer",
+    "NVIEW-24261: User without permissions can delete pictured from the ph…"
+  ],
+  "src/app/share/modules/infra/components/lv-photo-gallery/lv-photo-gallery.component.ts": [
+    "NVIEW-24375: gallery: active picture is changed when deleting inactiv…",
+    "NVIEW-24309: Gallery: active picture is out of the visible area in the footer",
+    "NVIEW-24309: Gallery: active picture is out of the visible area in th…",
+    "NVIEW-24243: Delete picture from the gallery is not implemented correctly",
+    "NVIEW-24261: User without permissions can delete pictured from the ph…",
+    "NVIEW-24248: Empty slots in gallery footer",
+    "NVIEW-24243: Delete picture from the gallery is not implemented corre…",
+    "NVIEW-23602: [R&A] Full size mode is not closed automatically when al…"
+  ],
+  "src/app/share/components/lv-expansion-panel/lv-expansion-panel.component.html": [
+    "NVIEW-25065 : Arrow-button-does-not-close-section-lv-select"
+  ],
+  "src/app/share/modules/infra/components/infra-expansion-panel/infra-expansion-panel.component.html": [
+    "NVIEW-25065 : Arrow-button-does-not-close-section-lv-select"
+  ],
+  "src/app/share/modules/infra/components/infra-expansion-panel/infra-expansion-panel.component.ts": [
+    "NVIEW-25065 : Arrow-button-does-not-close-section-lv-select"
+  ],
+  "src/app/share/modules/infra/components/lv-select-options-page/lv-select-options-page.component.html": [
+    "NVIEW-25065 : Arrow-button-does-not-close-section-lv-select"
+  ],
+  "src/app/share/modules/infra/components/lv-select-options-page/lv-select-options-page.component.scss": [
+    "NVIEW-25065 : Arrow-button-does-not-close-section-lv-select"
+  ],
+  "src/ag-grid-overwrite.scss": [
+    "NVIEW-24928: [Config] incorrect styling in workflow builder page",
+    "NVIEW-24954: Invalid mouth pointer in the HelpDesk",
+    "add flex to ag-grid"
+  ],
+  "src/app/locusview-main-page/configuration/components/workflow-transition-editor/workflow-transition-editor.component.html": [
+    "NVIEW-24928: [Config] incorrect styling in workflow builder page",
+    "NVIEW-24867 Error in logs on attempt to open default review workflow"
+  ],
+  "src/app/locusview-main-page/configuration/components/workflow-transition-editor/workflow-transition-editor.component.ts": [
+    "NVIEW-24928: [Config] incorrect styling in workflow builder page",
+    "NVIEW-25024: Workflow Step Transition: pencil icon and delete are dis…",
+    "NVIEW-24987 Step Transitions: 'Delete' button is missing",
+    "NVIEW-24987: Step Transitions: 'Delete' button is missing",
+    "NVIEW-24957: Steps Transitions: wrong default rows of step transitions",
+    "NVIEW-24867 Error in logs on attempt to open default review workflow",
+    "NVIEW-24753 Default Workflow: incorrect order of Step Transition",
+    "NVIEW-24783 Workflow Step Transition: From Step 'Start Review' is not…"
+  ],
+  "src/app/share/globals.ts": [
+    "NVIEW-24928: [Config] incorrect styling in workflow builder page"
+  ],
+  "src/app/locusview-main-page/projectManagement/components/bulk-create-project/bulk-create-project.component.ts": [
+    "NVIEW-25062: [PM] Bulk Upload Projects: inactive Work Orders appears …"
+  ],
+  "src/app/share/modules/infra/components/action-button-container/action-button-container.component.ts": [
+    "NVIEW-24706: [PM] incorrect search bar behavior",
+    "NVIEW-24815: [AUTO] Closing Search field does not clear search value",
+    "NVIEW-24815: [AUTO] Closing Search field does not clear search value",
+    "NVIEW-24761: [AUTO] Can't create a new User"
+  ],
+  "src/app/share/components/input-search/input-search.component.scss": [
+    "NVIEW-25081: Geosearch field: x overlaps text"
+  ],
+  "src/app/share/modules/dashboards/dashboards.component.ts": [
+    "NVIEW-25081: Geosearch field: x overlaps text"
+  ],
+  "src/app/share/modules/infra/components/lv-side-bar-tree-page/lv-side-bar-tree-page.component.ts": [
+    "NVIEW-24868 fix: [do auto]Navigation: Material is collapsed when switch to Recon metrics",
+    "NVIEW-23487 fix [WEB][Config][doAuto] Sections with Sub menu displayed at the left panel when click at the \"Configuration\" button",
+    "NVIEW-23487 fix [WEB][Config][doAuto] Sections with Sub menu displayed at the left panel when click at the \"Cond at the left panel when click at the \"Configuration\" buttonfiguration\" button"
+  ],
+  "docs/_sidebar.md": [
+    "NVIEW-25017: Inactive icon should has it's own column in new tables"
+  ],
+  "docs/infra/components/lv-grid-container/lv-grid-cell-components/lv-grid-concat-cell-with-pipe.component.ts.md": [
+    "NVIEW-25017: Inactive icon should has it's own column in new tables",
+    "NVIEW-24853:[AUTO] Wrong dropdown field titles for Privacy Settings and Project Sharing"
+  ],
+  "docs/infra/components/lv-grid-container/lv-grid-cell-components/lv-grid-inactive-cell.component.ts.md": [
+    "NVIEW-25017: Inactive icon should has it's own column in new tables"
+  ],
+  "docs/infra/components/lv-grid-container/lv-grid-cell-components/lv-grid-inactive-icon-cell.component.ts.md": [
+    "NVIEW-25017: Inactive icon should has it's own column in new tables"
+  ],
+  "src/app/locusview-main-page/resources/components/live-lists-data/live-lists-data.component.ts": [
+    "NVIEW-25017: Inactive icon should has it's own column in new tables",
+    "NVIEW-24848: [AUTO] Can't inactivate an option in Shared Live Lists"
+  ],
+  "src/app/locusview-main-page/usersManagement/components/group-hierarchy-list/group-hierarchy-list.component.ts": [
+    "NVIEW-25017: Inactive icon should has it's own column in new tables",
+    "NVIEW-24944: [AUTO] Automatic Project Permissions column displayed empty",
+    "NVIEW-24882: [AUTO] Plus button missed in Project Sharing and Privacy…",
+    "NVIEW-24853:[AUTO] Wrong dropdown field titles for Privacy Settings and Project Sharing"
+  ],
+  "src/app/share/modules/infra/components/lv-grid-container/lv-grid-cell-components/lv-grid-concat-cell-with-pipe/lv-grid-concat-cell-with-pipe.component.ts": [
+    "NVIEW-25017: Inactive icon should has it's own column in new tables",
+    "NVIEW-24944: [AUTO] Automatic Project Permissions column displayed empty"
+  ],
+  "src/app/share/modules/infra/components/lv-grid-container/lv-grid-cell-components/lv-grid-inactive-cell/lv-grid-inactive-cell.component.html": [
+    "NVIEW-25017: Inactive icon should has it's own column in new tables"
+  ],
+  "src/app/share/modules/infra/components/lv-grid-container/lv-grid-cell-components/lv-grid-inactive-icon-cell/lv-grid-inactive-icon-cell.component.html": [
+    "NVIEW-25017: Inactive icon should has it's own column in new tables"
+  ],
+  "src/app/share/modules/infra/components/lv-grid-container/lv-grid-cell-components/lv-grid-inactive-icon-cell/lv-grid-inactive-icon-cell.component.scss": [
+    "NVIEW-25017: Inactive icon should has it's own column in new tables"
+  ],
+  "src/app/share/modules/infra/components/lv-grid-container/lv-grid-cell-components/lv-grid-inactive-icon-cell/lv-grid-inactive-icon-cell.component.ts": [
+    "NVIEW-25017: Inactive icon should has it's own column in new tables"
+  ],
+  "src/app/share/modules/infra/infra.module.ts": [
+    "NVIEW-25017: Inactive icon should has it's own column in new tables",
+    "NVIEW-24957: Steps Transitions: wrong default rows of step transitions"
+  ],
+  "src/app/share/modules/lv-form/entity-type-manager/components/field-condition/field-condition.component.ts": [
+    "NVIEW-24745: [Config] [Regression] Unable to set Require When to Neve…"
+  ],
+  "src/app/share/services/configuration/reconciliation.service.ts": [
+    "NVIEW-24745: [Config] [Regression] Unable to set Require When to Neve…",
+    "NVIEW-24778: [WEB][Config][AUTO]WEB app stuck in saving process when …"
+  ],
+  "src/app/locusview-main-page/configuration/components/workflow-transition-editor-dialog/workflow-transition-editor-dialog.component.ts": [
+    "NVIEW-25024: Workflow Step Transition: pencil icon and delete are dis…"
+  ],
+  "src/app/locusview-main-page/usersManagement/components/lv-groups/lv-groups.component.html": [
+    "NVIEW-24991 : View-Policy-Settings-flow-is-broken"
+  ],
+  "src/app/share/components/multi-select-list/multi-select-list.component.html": [
+    "NVIEW-24991 : View-Policy-Settings-flow-is-broken"
+  ],
+  "src/app/share/modules/infra/components/full-screen-editor-wrapper/full-screen-editor-wrapper.component.ts": [
+    "NVIEW-24991 : View-Policy-Settings-flow-is-broken",
+    "NVIEW-24867 Error in logs on attempt to open default review workflow"
+  ],
+  "src/app/locusview-main-page/environmentSettings/components/helpdesk/helpdesk.component.ts": [
+    "NVIEW-24954: Invalid mouth pointer in the HelpDesk"
+  ],
+  "src/app/share/modules/infra/components/lv-grid-container/lv-grid-cell-components/lv-grid-clickable-icon/lv-grid-clickable-icon.component.html": [
+    "NVIEW-24954: Invalid mouth pointer in the HelpDesk"
+  ],
+  "src/app/share/modules/infra/components/lv-grid-container/lv-grid-cell-components/lv-grid-clickable-icon/lv-grid-clickable-icon.component.scss": [
+    "NVIEW-24954: Invalid mouth pointer in the HelpDesk"
+  ],
+  "src/app/share/modules/infra/components/lv-grid-container/lv-grid-cell-components/lv-grid-clickable-icon/lv-grid-clickable-icon.component.ts": [
+    "NVIEW-24954: Invalid mouth pointer in the HelpDesk"
+  ],
+  "src/app/locusview-main-page/configuration/components/workflows/workflows.component.html": [
+    "NVIEW-24965 Step Transitions: allowing edit button in \"view mode\""
+  ],
+  "src/app/share/modules/infra/components/lv-grid-container/lv-grid-cell-components/lv-grid-workflow-transition-status/lv-grid-workflow-transition-status.component.html": [
+    "NVIEW-24957: Steps Transitions: wrong default rows of step transitions"
+  ],
+  "src/app/share/modules/infra/components/lv-grid-container/lv-grid-cell-components/lv-grid-workflow-transition-status/lv-grid-workflow-transition-status.component.scss": [
+    "NVIEW-24957: Steps Transitions: wrong default rows of step transitions"
+  ],
+  "src/app/share/modules/infra/components/lv-grid-container/lv-grid-cell-components/lv-grid-workflow-transition-status/lv-grid-workflow-transition-status.component.ts": [
+    "NVIEW-24957: Steps Transitions: wrong default rows of step transitions"
+  ],
+  "src/app/locusview-main-page/projectManagement/components/project-list/project-list.component.html": [
+    "add flex to ag-grid"
+  ],
+  "src/app/share/components/main-page-content-wrapper/main-page-content-wrapper.component.scss": [
+    "add flex to ag-grid"
+  ],
+  "src/app/share/modules/infra/components/lv-grid-container/lv-grid-page/lv-grid-page.component.html": [
+    "add flex to ag-grid",
+    "NVIEW-24853:[AUTO] Wrong dropdown field titles for Privacy Settings and Project Sharing",
+    "NVIEW-24815: [AUTO] Closing Search field does not clear search value"
+  ],
+  "src/app/share/modules/infra/components/lv-grid-container/lv-grid-page/lv-grid-page.component.scss": [
+    "add flex to ag-grid",
+    "NVIEW-24853:[AUTO] Wrong dropdown field titles for Privacy Settings and Project Sharing"
+  ],
+  "src/app/share/modules/infra/components/lv-grid-container/lv-grid/lv-grid.component.html": [
+    "add flex to ag-grid"
+  ],
+  "src/styles.scss": [
+    "add flex to ag-grid"
+  ],
+  "src/app/locusview-main-page/environmentSettings/components/feature-toggles/feature-toggles.component.scss": [
+    "NVIEW-24880 : Incorrec-icon-design-in-webhooks"
+  ],
+  "src/app/share/modules/infra/components/lv-editor-card/lv-editor-card.component.html": [
+    "NVIEW-24874 - fix card title"
+  ],
+  "package-lock.json": [
+    "NVIEW-24853:[AUTO] Wrong dropdown field titles for Privacy Settings and Project Sharing",
+    "NVIEW-24074: [WEB] SAML: SAML's token of first logged in user saves i…"
+  ],
+  "src/app/locusview-main-page/usersManagement/components/group-hierarchy-editor/group-hierarchy-editor.component.html": [
+    "NVIEW-24853:[AUTO] Wrong dropdown field titles for Privacy Settings and Project Sharing"
+  ],
+  "src/app/locusview-main-page/usersManagement/components/group-hierarchy-editor/group-hierarchy-editor.component.ts": [
+    "NVIEW-24853:[AUTO] Wrong dropdown field titles for Privacy Settings and Project Sharing"
+  ],
+  "src/app/locusview-main-page/usersManagement/components/privacy-settings/privacy-settings.component.ts": [
+    "NVIEW-24853:[AUTO] Wrong dropdown field titles for Privacy Settings and Project Sharing",
+    "NVIEW-24707 fix: [UM]  project sharing and privacy settings tabs are flickering"
+  ],
+  "src/app/locusview-main-page/usersManagement/components/project-sharing/project-sharing.component.ts": [
+    "NVIEW-24853:[AUTO] Wrong dropdown field titles for Privacy Settings and Project Sharing",
+    "NVIEW-24707 fix: [UM]  project sharing and privacy settings tabs are flickering"
+  ],
+  "src/app/share/modules/infra/components/lv-grid-container/lv-grid-page/lv-grid-page.component.ts": [
+    "NVIEW-24853:[AUTO] Wrong dropdown field titles for Privacy Settings and Project Sharing"
+  ],
+  "src/chart/base-chart/base-chart.component.ts": [
+    "NVIEW-24859: [Metrics] Fix Chart ticks resolution"
+  ],
+  "src/chart/common/chartTooltip.ts": [
+    "NVIEW-24856: Metrics: Change tooltip position"
+  ],
+  "src/app/locusview-main-page/configuration/components/workflow-transition-editor/workflow-transition-editor.component.spec.ts": [
+    "NVIEW-24753 Default Workflow: incorrect order of Step Transition"
+  ],
+  "src/app/share/modules/lv-form/entity-type-manager/components/entity-layout-fields-editor/entity-layout-fields-editor.component.ts": [
+    "NVIEW-24838: Content: Duplicate field aliases are allowed when creati…",
+    "NVIEW-24130 - fix recon validation to validate on assets fields only",
+    "NVIEW-23749: [WEB][Config][Calculation][doAuto] Cancel button not cli…",
+    "NVIEW-23596: [Config] unique field name error displays even when fiel…"
+  ],
+  "src/app/share/modules/lv-form/entity-type-manager/field-type-manager/field-type-definition/field-type-definition-base.ts": [
+    "NVIEW-24838: Content: Duplicate field aliases are allowed when creati…"
+  ],
+  "src/app/share/modules/lv-form/entity-type-manager/field-type-manager/field-type-definition/layout-field-type-definition-base.ts": [
+    "NVIEW-24838: Content: Duplicate field aliases are allowed when creati…",
+    "Nview 23258 unsuported fields remove tag"
+  ],
+  "src/app/locusview-main-page/usersManagement/components/security/security-saml/security-saml.component.html": [
+    "NVIEW-24552 : SAML groups dropdown missing",
+    "NVIEW-24554 : SAML-Groups-Exclamation-point-does-not-appear-on-save"
+  ],
+  "src/app/locusview-main-page/usersManagement/components/security/security-saml/security-saml.component.ts": [
+    "NVIEW-24552 : SAML groups dropdown missing",
+    "NVIEW-24554 : SAML-Groups-Exclamation-point-does-not-appear-on-save"
+  ],
+  "src/app/locusview-main-page/configuration/components/reconciliation/recon-editor/recon-editor.component.ts": [
+    "NVIEW-24778: [WEB][Config][AUTO]WEB app stuck in saving process when …",
+    "NVIEW-24648: [WEB][Config][AUTO]WEB app stuck in Saving process(Recon…"
+  ],
+  "src/app/locusview-main-page/configuration/configuration.actions.ts": [
+    "NVIEW-24778: [WEB][Config][AUTO]WEB app stuck in saving process when …"
+  ],
+  "src/app/share/components/lv-toggle-button/lv-toggle-button.component.scss": [
+    "NVIEW-24778: [WEB][Config][AUTO]WEB app stuck in saving process when …"
+  ],
+  "src/app/store/effects/configuration.effect.ts": [
+    "NVIEW-24778: [WEB][Config][AUTO]WEB app stuck in saving process when …",
+    "NVIEW-24480: [WEB][Config][AUTO]WEB app not sending request to the se…",
+    "NVIEW-23924: [Config] when project type duplicated all the fields in …"
+  ],
+  "src/app/store/reducers/configuration.reducer.ts": [
+    "NVIEW-24778: [WEB][Config][AUTO]WEB app stuck in saving process when …",
+    "NVIEW-24546: [AUTO] Duplicate flow is broken",
+    "NVIEW-23693 [do auto][WEB][Config] When duplicate Work unit type it i…"
+  ],
+  "src/app/share/components/search-list/search-list.component.html": [
+    "NVIEW-24815: [AUTO] Closing Search field does not clear search value"
+  ],
+  "src/app/locusview-main-page/usersManagement/components/lv-users/lv-users.component.ts": [
+    "NVIEW-24804: [AUTO] Edit user details flow is broken"
+  ],
+  "src/app/share/modules/lv-form/components/lv-components-card-content/lv-components-card-content.component.ts": [
+    "NVIEW-24749 fix: [Config] getting exception error in project type edit mode"
+  ],
+  "src/app/locusview-main-page/configuration/components/workflow-editor/workflow-editor.component.ts": [
+    "NVIEW-24775 Workflow Used in the Following Projects card: List of the…"
+  ],
+  "src/app/locusview-main-page/review/classes/asset-card-properties-generator.ts": [
+    "NVIEW-24705: fix [R&A] when PROJECT_BOM = false  index  field materials status pop up  shows"
+  ],
+  "src/app/share/modules/infra/components/action-button-container/action-button-container.component.html": [
+    "NVIEW-24761: [AUTO] Can't create a new User"
+  ],
+  "src/app/locusview-main-page/usersManagement/components/privacy-settings/privacy-settings.component.html": [
+    "NVIEW-24707 fix: [UM]  project sharing and privacy settings tabs are flickering"
+  ],
+  "src/app/locusview-main-page/usersManagement/components/project-sharing/project-sharing.component.html": [
+    "NVIEW-24707 fix: [UM]  project sharing and privacy settings tabs are flickering"
+  ],
+  "src/app/locusview-main-page/review/classes/form-card-properties-generator.ts": [
+    "NVIEW-24760 [AUTO] Filter results broken on Cards"
+  ],
+  "src/app/locusview-main-page/review/classes/joint-card-properties-generator.ts": [
+    "NVIEW-24760 [AUTO] Filter results broken on Cards"
+  ],
+  "src/app/locusview-main-page/review/classes/work-unit-card-properties-generator.ts": [
+    "NVIEW-24760 [AUTO] Filter results broken on Cards"
+  ],
+  "src/app/share/components/tab-table/tab-table.component.scss": [
+    "NVIEW-24702 - fix tab-table column name margin (left) according to UX…",
+    "NVIEW-23588 : cp-master",
+    "NVIEW-23588 : Inactive-icon-displayed-on-top"
+  ],
+  "src/app/share/components/lv-scroll-list-item/lv-scroll-list-item.component.ts": [
+    "NVIEW-24581 - fix error in console when no callback"
+  ],
+  "src/app/locusview-main-page/configuration/components/workflow-steps/workflow-steps.component.ts": [
+    "NVIEW-24619 - fix by add loader to hide the temporary empty state"
+  ],
+  "src/app/share/components/multi-select-list/multi-select-list.component.scss": [
+    "NVIEW-24624 - fix mouse cursor"
+  ],
+  "src/app/locusview-main-page/usersManagement/components/lv-groups-editor/lv-groups-editor.component.html": [
+    "NVIEW-24051 : View-Users-Groups-title",
+    "NVIEW-23946 [AUTO] Empty state on Contained Groups tab is missed"
+  ],
+  "src/app/locusview-main-page/usersManagement/components/lv-policy/lv-policies-overview-screen/lv-policies-overview-screen.component.html": [
+    "NVIEW-24051 : View-Users-Groups-title"
+  ],
+  "src/app/locusview-main-page/usersManagement/components/lv-policy/lv-policies-overview-screen/lv-policies-overview-screen.component.spec.ts": [
+    "NVIEW-24051 : View-Users-Groups-title"
+  ],
+  "src/app/locusview-main-page/usersManagement/components/lv-policy/lv-policies-overview-screen/lv-policies-overview-screen.component.ts": [
+    "NVIEW-24051 : View-Users-Groups-title"
+  ],
+  "src/app/locusview-main-page/usersManagement/components/lv-users-editor/lv-users-editor.component.html": [
+    "NVIEW-24051 : View-Users-Groups-title"
+  ],
+  "src/app/locusview-main-page/projectManagement/components/project-editor/project-editor.component.ts": [
+    "NVIEW-24701 fix: [do auto] Lifecycle Review card title is wrong",
+    "NVIEW-23468:  [AUTO][PM] Issue on create project after search performed"
+  ],
+  "src/app/share/components/card/card-list-content/card-list-content.component.html": [
+    "NVIEW-24714 Form, Asset, Alert lists are not displayed"
+  ],
+  "src/app/share/components/card/card-list-content/card-list-content.component.scss": [
+    "NVIEW-24714 Form, Asset, Alert lists are not displayed"
+  ],
+  "src/app/share/components/recent-list-item/recent-list-item.component.html": [
+    "NVIEW-24666 - modify left panel preview alignment"
+  ],
+  "src/app/share/components/recent-list-item/recent-list-item.component.scss": [
+    "NVIEW-24666 - modify left panel preview alignment",
+    "NVIEW-24350 : Preview-button-displayed-incorrectly"
+  ],
+  "src/app/share/modules/infra/components/lv-date/lv-date.component.html": [
+    "NVIEW-24464: [R&A] incorrect date displayed in date component in a sp…"
+  ],
+  "src/app/locusview-main-page/review/components/app-filters/app-filters-dialog.component.ts": [
+    "NVIEW-24620: [R&A] System Type Filter options aligned incorrectly"
+  ],
+  "src/app/locusview-main-page/configuration/classes/gis-layer-type.ts": [
+    "NVIEW-24323 : Gis-asset-type-contains-active-icon"
+  ],
+  "src/app/share/modules/lv-form/components/card-layout-editor-dialog/card-layout-editor-dialog.component.spec.ts": [
+    "NVIEW-24066 [WEB][Config][AUTO] Possible to save Asset with empty Car…"
+  ],
+  "src/app/share/modules/lv-form/components/card-layout-editor-dialog/card-layout-editor-dialog.component.ts": [
+    "NVIEW-24066 [WEB][Config][AUTO] Possible to save Asset with empty Car…"
+  ],
+  "src/app/locusview-main-page/review/components/review-approve-project/review-approve-project-container/review-approve-project-container.component.ts": [
+    "NVIEW-24346 - fix error handling within R&A"
+  ],
+  "src/app/share/directives/tool-tip-renderer.directive.ts": [
+    "NVIEW-24397 : Stuck-after-save-tooltip-error",
+    "NVIEW-24318 : Alert-preview-card-does-not-close"
+  ],
+  "src/app/locusview-main-page/map/services/lv-map-icon.service.ts": [
+    "NVIEW-24355 :  wrong-pin-color-gis-selected"
+  ],
+  "src/app/share/modules/infra/components/lv-photo-field/lv-photo-field.component.html": [
+    "NVIEW-24311: Click on thumbnail with number indicator opens gallery …",
+    "NVIEW-24312: Click on thumbnail with number indicator opens gallery with invalid title and empty main frame"
+  ],
+  "src/app/share/components/card/card-list-content/card-list-content.component.ts": [
+    "NVIEW-24309: Gallery: active picture is out of the visible area in the footer"
+  ],
+  "src/app/share/modules/infra/components/lv-photo-medium-gallery/lv-photo-medium-gallery.component.ts": [
+    "NVIEW-24309: Gallery: active picture is out of the visible area in the footer",
+    "NVIEW-24309: Gallery: active picture is out of the visible area in th…"
+  ],
+  "src/app/share/modules/infra/components/lv-photo-medium-gallery/lv-photo-medium-gallerycomponent.spec.ts": [
+    "NVIEW-24309: Gallery: active picture is out of the visible area in the footer"
+  ],
+  "src/app/locusview-main-page/usersManagement/components/lv-policy/lv-policies-overview-screen/containers/lv-policies-properties-container/lv-policies-properties-container.component.html": [
+    "NVIEW-24231 : Lock-icon-missed"
+  ],
+  "src/app/share/modules/lv-form/components/chips-editor/chips-editor.component.html": [
+    "NVIEW-24062 [WEB][Config][doAUTO]\"icon-plus\" icon not active at Card …"
+  ],
+  "src/app/locusview-main-page/map/components/lv-checklist/lv-checklist.component.scss": [
+    "NVIEW-24267 - fix missing color changes"
+  ],
+  "src/app/locusview-main-page/review/components/review-approve-project/review-approve-project-container/review-approve-project-container.component.scss": [
+    "NVIEW-24267 - fix missing color changes"
+  ],
+  "src/app/share/components/lv-steps/lv-steps.component.scss": [
+    "NVIEW-24267 - fix missing color changes"
+  ],
+  "src/app/share/modules/infra/components/lv-photo-gallery-item/lv-photo-gallery-item.component.ts": [
+    "NVIEW-24261: User without permissions can delete pictured from the ph…"
+  ],
+  "src/owl-overwrite.scss": [
+    "NVIEW-24248: Empty slots in gallery footer"
+  ],
+  "src/app/share/modules/infra/components/lv-photo-medium-gallery/lv-photo-medium-gallery.component.scss": [
+    "NVIEW-24242: Invalid asset photo card layout"
+  ],
+  "src/app/share/modules/lv-form/components/preview-card-editor/preview-card-editor.component.ts": [
+    "NVIEW-24117 fix: Card Layout Title and Subtitle missed in Reconciliation",
+    "NVIEW-24104 fix: [WEB][Config][AUTO]Entity layout details missed at Card Layout",
+    "NVIEW-23938 Console error when open edit Joint Configuration"
+  ],
+  "src/app/share/modules/lv-form/entity-type-manager/components/part-of-catalog-field-value/part-of-catalog-field-value.component.ts": [
+    "NVIEW-24108: [Config] incorrect option displayed in part of catalog w…"
+  ],
+  "src/app/share/modules/lv-form/entity-type-manager/components/list-field-value/list-field-value.component.ts": [
+    "NVIEW-23901: [WEB][Config][Auto]Issue in inactivating list values",
+    "NVIEW-23901: [WEB][Config][Auto]Issue in inactivating list values"
+  ],
+  "package.json": [
+    "NVIEW-24074: [WEB] SAML: SAML's token of first logged in user saves i…",
+    "NVIEW-24074: [WEB] SAML: SAML's token of first logged in user saves i…",
+    "NVIEW-23903 - fix icon name"
+  ],
+  "src/app/app.module.ts": [
+    "NVIEW-24074: [WEB] SAML: SAML's token of first logged in user saves i…",
+    "NVIEW-24074: [WEB] SAML: SAML's token of first logged in user saves i…"
+  ],
+  "src/app/share/services/user/user.service.ts": [
+    "NVIEW-24074: [WEB] SAML: SAML's token of first logged in user saves i…",
+    "NVIEW-24074: [WEB] SAML: SAML's token of first logged in user saves i…"
+  ],
+  "src/app/share/modules/infra/components/lv-select-field/lv-select-field.component.spec.ts": [
+    "NVIEW-24027: [WEB][Auto][Alerts]incorrect naming of selected fields"
+  ],
+  "src/app/share/modules/infra/components/lv-select-field/lv-select-field.component.ts": [
+    "NVIEW-24027: [WEB][Auto][Alerts]incorrect naming of selected fields"
+  ],
+  "src/app/locusview-main-page/configuration/components/shared-content/live-lists/live-list-editor/live-list-editor.component.ts": [
+    "NVIEW-23940: [Config] unable to click on cancel and go back to the pr…"
+  ],
+  "src/app/share/modules/infra/components/lv-side-bar-tree-step/lv-side-bar-tree-step-types.ts": [
+    "NVIEW-23879 fix: [PM] the specific status color not displayed when hovering on users button"
+  ],
+  "src/app/share/modules/infra/services/helpers/sort-helper.ts": [
+    "NVIEW-23987 fix: [UM] incorrect sorting order in main page"
+  ],
+  "src/app/share/modules/infra/components/lv-select-option/lv-select-option.component.scss": [
+    "NVIEW-23386: Infra: virtual-scroll in select field",
+    "NVIEW-23386: Infra: virtual-scroll in select field",
+    "NVIEW-23386: Infra: virtual-scroll in select field"
+  ],
+  "src/app/locusview-main-page/configuration/components/oq/oq-vendors/oq-vendors.component.ts": [
+    "NVIEW-23958 [Config] unable to click on cancel button in oq vendors"
+  ],
+  "src/app/share/modules/message/message-center/message-center.component.ts": [
+    "NVIEW-24005 - handle empty key translation"
+  ],
+  "src/app/share/components/lv-properties-list/lv-property-list.component.html": [
+    "NVIEW-23667: [AUTO] GPS Info Section is broken",
+    "NVIEW-23891 [R&A] copy to clipboard tooltip not displayed when mouse …",
+    "NVIEW-23789: [AUTO] Tool tips missed for Quantity field",
+    "NVIEW-23667: [AUTO] GPS Info Section is broken"
+  ],
+  "src/app/share/components/lv-paste-list/lv-paste-list.component.scss": [
+    "NVIEW-23922: [Config] in \"paste values inside\" page save and clear bu…"
+  ],
+  "src/app/share/modules/infra/services/helpers/custom-validator-helper.ts": [
+    "NVIEW-23970 fix: [AUTO] Create new User flow is broken"
+  ],
+  "src/app/locusview-main-page/configuration/components/oq/oq-task-editor.component/oq-task-editor.component.ts": [
+    "NVIEW-23941 [Config] execution error at tasks editor in OQ"
+  ],
+  "src/app/locusview-main-page/usersManagement/components/lv-users-editor/lv-users-editor.component.scss": [
+    "NVIEW-23828: [PM] the buttons at the bottom are not displayed when th…"
+  ],
+  "src/app/share/services/entity-properties-list/entity-properties-list.service.ts": [
+    "NVIEW-23891 [R&A] copy to clipboard tooltip not displayed when mouse …",
+    "NVIEW-23789: [AUTO] Tool tips missed for Quantity field"
+  ],
+  "src/app/locusview-main-page/map/components/lv-checklist/lv-checklist.component.html": [
+    "NVIEW-23867: [Web][R&A] Rejected project fields  are editable",
+    "NVIEW-23867: [Web][R&A] Rejected project fields  are editable"
+  ],
+  "src/app/locusview-main-page/map/components/lv-checklist/lv-checklist.component.ts": [
+    "NVIEW-23867: [Web][R&A] Rejected project fields  are editable",
+    "NVIEW-23867: [Web][R&A] Rejected project fields  are editable"
+  ],
+  "src/app/share/classes/base-element-component.ts": [
+    "NVIEW-23867: [Web][R&A] Rejected project fields  are editable"
+  ],
+  "src/app/locusview-main-page/configuration/services/reconciliation.service.ts": [
+    "NVIEW-23813: [do auto] Error on delete field if in reconciliation not…"
+  ],
+  "src/app/share/components/lv-properties-list/lv-property-list.component.scss": [
+    "NVIEW-23789: [AUTO] Tool tips missed for Quantity field"
+  ],
+  "src/app/share/components/lv-properties-list/lv-property-list.component.ts": [
+    "NVIEW-23789: [AUTO] Tool tips missed for Quantity field",
+    "NVIEW-23667: [AUTO] GPS Info Section is broken"
+  ],
+  "src/app/share/modules/infra/components/web-dynamic-input/web-dynamic-input.component.ts": [
+    "NVIEW-23768: [WEB][Config] No Error message when validate calculation…"
+  ],
+  "src/polyfills.ts": [
+    "NVIEW-23749: [WEB][Config][Calculation][doAuto] Cancel button not cli…"
+  ],
+  "src/app/share/modules/infra/components/lv-photo-gallery/lv-photo-gallery-full-size.component.spec.ts": [
+    "NVIEW-23667: [AUTO] GPS Info Section is broken"
+  ],
+  "src/app/share/modules/message/message.module.ts": [
+    "NVIEW-23646: [AUTO] Info tooltip missed on reset password question mark",
+    "NVIEW-23643 [WEB][doAuto] \"Password\" field dismissed when create new …"
+  ],
+  "src/app/share/modules/infra/components/lv-photo-gallery/lv-photo-gallery-full-size.component.scss": [
+    "NVIEW-23602: [R&A] Full size mode is not closed automatically when al…"
+  ],
+  "src/app/share/modules/infra/components/lv-photo-gallery/lv-photo-gallery-full-size.component.ts": [
+    "NVIEW-23602: [R&A] Full size mode is not closed automatically when al…",
+    "NVIEW-23602: [R&A] Full size mode is not closed automatically when al…",
+    "NVIEW-23602: [R&A] Full size mode is not closed automatically when al…"
+  ],
+  "src/app/locusview-main-page/usersManagement/users.module.ts": [
+    "NVIEW-23643 [WEB][doAuto] \"Password\" field dismissed when create new …"
+  ],
+  "src/app/locusview-main-page/review/components/review-approve-project/review-approve-project.component.scss": [
+    "NVIEW-23280: [R&A] incorrect button position in side menu"
+  ],
+  "src/app/share/components/lv-search-action-list/lv-search-action-list.component.ts": [
+    "NVIEW-23538: [Config] execution error displayed after pressing ok at …"
+  ],
+  "src/app/share/modules/lv-form/entity-type-manager/components/list-field-value/list-field-value.component.html": [
+    "NVIEW-23510: [Config] cant see the list's options"
+  ],
+  "src/app/store/services/entitiesData.service.ts": [
+    "NVIEW-23468:  [AUTO][PM] Issue on create project after search performed",
+    "remove unused functions"
+  ],
+  "src/app/share/components/tab-table/tab-table.component.html": [
+    "NVIEW-23441 fix [AUTO][PM] Search results cannot be cleared after clicking on project and back button cking on project and back button"
+  ],
+  "src/app/share/components/tab-table/tab-table.component.ts": [
+    "NVIEW-23441 fix [AUTO][PM] Search results cannot be cleared after clicking on project and back button cking on project and back button"
+  ],
+  "src/app/locusview-main-page/configuration/components/shared-content/fields-tags/fields-tags.component.ts": [
+    "Nview 23258 unsuported fields remove tag"
+  ],
+  "src/app/share/components/lv-validation-multiple-tip/lv-validation-multiple-dialog/lv-validation-multiple-dialog.html": [
+    "Nview 23258 unsuported fields remove tag"
+  ],
+  "src/app/share/components/lv-validation-multiple-tip/lv-validation-multiple-dialog/lv-validation-multiple-dialog.scss": [
+    "Nview 23258 unsuported fields remove tag"
+  ],
+  "src/app/share/modules/lv-form/entity-type-manager/field-type-manager/field-type-definition/auto-generate-field-type-definition.ts": [
+    "Nview 23258 unsuported fields remove tag"
+  ]
+}
