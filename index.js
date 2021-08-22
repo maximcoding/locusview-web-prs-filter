@@ -32,7 +32,7 @@ async function* fetchRequest(url) {// will pause the execution
 }
 
 const requestIterator = async (url) => {
-  log(warning(`http request ${url}`));
+  // log(warning(`http request ${url}`));
   const iterator = fetchRequest(url);
   return await iterator.next();
 }
@@ -54,7 +54,7 @@ const pollPRs = async (page, per_page) => {
     const date = new Date(partial_data[0].merged_at).getTime();
     expiredFlag = expirationDate > date;
     if (expiredFlag) {
-      log(error(`Reached expiration date ${new Date(expirationDate).getDate()} with ${prs.length} files`));
+      log(error(`Reached expiration date ${new Date(expirationDate).toDateString()} with ${prs.length} files`));
     }
     const bugs = filterBugs(partial_data);
     if (bugs) {
@@ -65,7 +65,7 @@ const pollPRs = async (page, per_page) => {
   const prFiles = await pollPrFiles(prs, 1, 100);
   files.push(...prFiles);
   log(success(`Fetched ${files.length} files from pull requests...`));
-  return files;
+  return {prs, files};
 }
 
 const filterBugs = (partial_data) => {
@@ -121,14 +121,20 @@ const pollPrFiles = async (pullRequests, page, per_page) => {
     const {value, done} = await requestIterator(url);
     const filesWithPr = mapFiles(pr, value.data);
     prFiles.push(...filesWithPr);
-    log(running(`pulled files ..${prFiles.length}`));
+    // log(running(`pulled files ..${prFiles.length}`));
     index++;
   }
   return prFiles;
 }
 
-const writeDoc = (fileName, data) => {
-  const jsonContent = JSON.stringify(data);
+const writeDoc = (fileName, prs, files, data) => {
+  const obj = {
+    fromDate: new Date(expirationDate).toLocaleString(),
+    pull_requests: prs.length,
+    files: files.length,
+    data
+  };
+  const jsonContent = JSON.stringify(obj);
   fs.writeFile(fileName, jsonContent, 'utf8', (err) => {
     if (err) {
       return log(error('An error occurred while writeDoc()'));
@@ -152,8 +158,8 @@ const groupBy = (data) => {
 }
 
 
-log(running(`Running script...`));
-const files = await pollPRs(1, 100);
+log(running(`Running a script...`));
+const {prs, files} = await pollPRs(1, 100);
 const data = groupBy(files);
-await writeDoc(fileName, data);
+await writeDoc(fileName, prs, files, data);
 log(success(`Fetched ${files.length} files`));
