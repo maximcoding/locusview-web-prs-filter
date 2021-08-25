@@ -4,5 +4,5 @@
 2. generate github personal access token
 ```
 GITHUB_PERSONAL_ACCESS_TOKEN=
-GITHUB_REPO=locusview
+GITHUB_REPO=locusweb-client
 GITHUB_OWNER=locusview
